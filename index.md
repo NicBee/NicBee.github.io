@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Nicole Beller: GAM-495 Capstone
 
-You can use the [editor on GitHub](https://github.com/NicBee/NicBee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Refined Artifact #4](https://github.com/NicBee/NicBee.github.io-Artifact-4.git) 
+[Refined Artifact #3](https://github.com/NicBee/NicBee.github.io-artifact-3.git)
+[Refined Artifact #2](https://github.com/NicBee/NicBee.github.io-Artifact-2.git)
+[Refined Artifact #1](https://github.com/NicBee/NicBee.github.io-Artifact-1.git)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
