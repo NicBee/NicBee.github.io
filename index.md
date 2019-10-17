@@ -7,4 +7,4 @@ In *The Race*, the goal is to find and collect the hidden items within the level
 
 You can download the game here: [Bitbucket Repository](https://NicoleBeller@bitbucket.org/NicoleBeller/the-race.git)
 
-For more information about the game follow this link: [GitHub Pages Refined Artifact #1](https://github.com/NicBee/NicBee.github.io-Artifact-1.git)
+For more information about the game follow this link: [GitHub Pages Refined Artifact #1](/artifact1.md)
