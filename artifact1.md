@@ -1,6 +1,6 @@
 ## Nicole Beller: GAM-495 Capstone 
 
-![The Race](TheRace_.jpg "The Race")
+![The Race](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_.jpg?raw=true "The Race")
 
 ### Refined Artifact #1 - *The Race*
 
@@ -118,15 +118,15 @@ void AAIEnemies::OnMoveCompleted(FAIRequestID RequestID, const FPathFollowingRes
 
 This is the first artifact that I returned to, after nearly a year and while I’m impressed with my coding documentation, I wish I would have documented my process on creating the game. For example, I wish I wrote about how or why I added spline AI. While I like that they monitor a specific area the entire time, I wish I could have easily edited their path but since I didn’t document the ‘hows’ or ‘whys’, I would have to use the internet for research and at the moment, I lack the time required to give it the proper attention. It’s frustrating having a cool aspect to my game but not being able to change it in any way. For future reference, I intend to document everything I do when I’m working on a solo project, so when I return to it, I know exactly where I left off or how I was doing something, in case there’s an improvement to what I was working on or a better way to do something.
 
-![AI Enemies](TheRace_4.jpg "AI Enemies")
+![AI Enemies](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_4.jpg?raw=true "AI Enemies")
 
 The feedback I received from my instructors was my concept was good and I was headed in the right direction but there was more I could do, more I could polish. My original game had a depleting bar but there was no point in it. I didn’t tie the bar into anything because I wasn’t sure what I wanted to do with the bar, aside from getting a passing grade to prove I learned how to do it. With this refined artifact, I decided to use the bar as a countdown; two of my maps have the countdown bar, that shows the player how much time they have left to find all of the items before they receive a Game Over. So, for this artifact, I had to learn how to tie a depleting bar to a timer which would then bring up a new widget blueprint. 
  
- ![MrDude in a castle](TheRace_2.jpg "MrDude in a castle")
+ ![MrDude in a castle](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_2.jpg?raw=true "MrDude in a castle")
  
 My original game was a simple map that had two different kinds of AI that ran according to either a randomized path or a set path. The goal was to collect the items but there were duplicates and the AI could collect an item or two. With this improvement, the core game is still the same, but now there are added difficulties, with time limits and additional collectible items. I also added new maps, to expand on my original map and added an exploding collectible in one of the higher difficulty maps. I didn’t change much, but I did improve upon my level design skills and I also added the Main Menu and a lose and win screen.
 While working on this artifact, I also learned not to bite off more than I could chew. While taking this Capstone course, I’m also attending another course, a rather writing-intensive one, and with each artifact, I only had one week to refine them. I wanted to majorly improve each artifact, to prove to my instructor/s and myself that I have learned a lot during my time at Southern New Hampshire University and while I am impressed with what I accomplished, I do feel like I could have done better, had I only attended this Capstone course.
 
-![MrDude feeling psychedelic](TheRace_3.jpg "MrDude feeling psychedelic")
+![MrDude feeling psychedelic](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_3.jpg?raw=true "MrDude feeling psychedelic")
  
  My original idea for refining this game was to change the theme of each level. I wanted to keep the original realistic-castle theme to the Easy map but then wanted to add a cartoony-theme to the Hard map. For the Challenging map, I wanted to incorporate the two themes into one, which would have been interesting to see. Perhaps in the future, when I’m done with school and wanting to learn more about game design, I will be able to return to this game and make the improvements I originally thought of. 
