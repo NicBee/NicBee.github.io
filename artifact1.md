@@ -12,7 +12,7 @@
  - Epic Games' Paragon: Morigesh download
    
 
-###**Inclusion**
+### **Inclusion**
 
 One thing that makes this game stand out, compared to the others in my ePortfolio, is the ability to play the game through different cameras or viewpoints.  The original assignment asked us to make at least 2 other cameras, for a total of 3, but I decided to add a few more to get more familiar with how the cameras work.  To create the additional cameras, I made a CameraViews Actor and used C++ and Visual Studio 2017 to input the code.
 
@@ -95,7 +95,7 @@ void AAIEnemies::OnMoveCompleted(FAIRequestID RequestID, const FPathFollowingRes
 
 ```
 
-###**Skills Learned**
+### **Skills Learned**
   - Project images in 3D games by writing code that correctly applies principles of linear algebra
   - Develop path-finding classes using navigation meshes for creating character paths in 3D games
   - Construct collision detection classes with static mesh collision references through utilization of game physics
@@ -108,13 +108,13 @@ void AAIEnemies::OnMoveCompleted(FAIRequestID RequestID, const FPathFollowingRes
   - Game Physics: showcases my understanding of how pickups function and how I can connect a simple pickup to the HUD; with each rock picked up the HUD produces an updated count.
   - Programming: showcases the different programming approaches I took to create this game; I used C++ and blueprints and figured out multiple ways to incorporate functioning AI.
   
-###**Revised Components**
+### **Revised Components**
 - Graphic Interface Design
 - Game AI
 - Game Physics
 - Programming
   
-###**Reflection**
+### **Reflection**
 
 This is the first artifact that I returned to, after nearly a year and while I’m impressed with my coding documentation, I wish I would have documented my process on creating the game. For example, I wish I wrote about how or why I added spline AI. While I like that they monitor a specific area the entire time, I wish I could have easily edited their path but since I didn’t document the ‘hows’ or ‘whys’, I would have to use the internet for research and at the moment, I lack the time required to give it the proper attention. It’s frustrating having a cool aspect to my game but not being able to change it in any way. For future reference, I intend to document everything I do when I’m working on a solo project, so when I return to it, I know exactly where I left off or how I was doing something, in case there’s an improvement to what I was working on or a better way to do something.
 
