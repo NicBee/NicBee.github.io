@@ -60,9 +60,12 @@ void ACameraViews::SetPlayerCam()
 ...
 
 ```
+
+![Camera Views](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_5.jpg?raw=true "Camera Views")
+
 I chose to add this game to my ePortfolio because I enjoyed working on the C++ code.  It was always a challenge working on this game because the code provided in the class was constantly outdated or incorrect, so I not only had to figure out what was wrong with the code, but I had to implement multiple changes to get everything to work properly.  
 
-I also wanted to add this game to my ePortfolio because I added unique AI.  There's the AI that runs from target point to target point, some that run to randomized target points and some that run in a set pattern.  Then there's the AIs that run on a spline.  I never heard of 'splines' before and I feel quite accomplished for being able to create two different AI that run on two different spline paths.  Here is a quick code snippet of the target point AI.
+I also wanted to add this game to my ePortfolio because I added unique AI.  There's the AI that runs from target point to target point, some that run to randomized target points and some that run in a set pattern.  Then there's the AIs that run on a spline.  I never heard of 'splines' before and I feel quite accomplished for being able to create two different AI that run on two different spline paths.  Here is a quick code snippet of the target point AI:
 
 ```markdown
 AIEnemies.h
@@ -94,6 +97,65 @@ void AAIEnemies::OnMoveCompleted(FAIRequestID RequestID, const FPathFollowingRes
 ...
 
 ```
+Here is a code snippet of my spline AI:
+
+```markdown
+AISplinePath.h
+...
+private:
+	// Makes a SplineLinePath component
+	USplineComponent * MySplineLinePath;
+
+	// Gets points for the spline path
+	UFUNCTION()
+		void GetSplinePoints();
+
+	// Gets number of spline points in the spline path
+	int32 myNumberOfSplinePoints;
+...
+
+AISplinePath.cpp
+...
+// Gathers information about the spline location and points; spline information
+void AAISplinePath::GetSplinePoints()
+{
+	for (TObjectIterator<USplineComponent>SplineComponent; SplineComponent; ++SplineComponent)
+	{
+		// Number of spline points
+		int numberOfSplinePoints = SplineComponent->GetNumberOfSplinePoints();
+		// Length of spline path
+		float totalLength = SplineComponent->GetSplineLength();
+
+		// Goes through the spline
+		float currentLength = 0;
+		// Items that are spawnedalong the spline need spaces
+		int itemSpacing = 5;
+		// Samples the spline every specific few units
+		int sampleLength = 150;
+
+		FString splineName = SplineComponent->GetName();
+
+		if (splineName == "PathSpline")
+		{
+			// Starts at the beginning of the spline
+			int splinePointCount = 0;
+			while (currentLength < totalLength)
+			{
+				FTransform splinePointTransform = SplineComponent->GetTransformAtDistanceAlongSpline(currentLength, ESplineCoordinateSpace::World);
+				// Increases current spline length
+				currentLength += sampleLength;
+				pathPointLocation[splinePointCount] = splinePointTransform.GetLocation();
+				splinePointCount++;
+			}
+			totalSplinePathPoints = splinePointCount;
+		}
+	}
+}
+...
+
+```
+
+ ![Spline Enemy](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_7.jpg?raw=true "Spline Enemy")
 
 ### **Skills Learned**
   - Project images in 3D games by writing code that correctly applies principles of linear algebra
