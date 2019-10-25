@@ -164,7 +164,7 @@ void AAISplinePath::GetSplinePoints()
   - Utilize built-in camera system libraries to develop camera styles in 3D game environments
   - Implement event-based user interface systems and heads-up displays in creating basic graphical user interfaces
   
- ### **Highlighted Skills**
+### **Highlighted Skills**
   - Graphic Interface Design: showcases my understanding of how the different cameras function in UE4; the player can access the view of multiple cameras while maneuvering through the castle.  
   - Game AI: showcases my understanding of how AI can function; I programmed different ways for the AI to move by having two of them travel on the same spline and using target points; I thought it would be interesting to have one AI access the target points randomly while the other follows the simple 1-2-3 pattern.
   - Game Physics: showcases my understanding of how pickups function and how I can connect a simple pickup to the HUD; with each rock picked up the HUD produces an updated count.
