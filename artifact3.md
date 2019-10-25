@@ -31,7 +31,7 @@ This quick video shows a piece of my personality that I added to the game: [YouT
   - Apply formal testing methodologies for identifying and correcting program bugs and accuracy relative to game design specifications
   - Assess collaborative strategies for their ability to promote effective communication in team-based game programming projects
   
- ### **Highlighted Skills**
+### **Highlighted Skills**
   - Graphic Interface Design: showcases the UI work I put into this game.  I did all of the menus, ensuring the buttons functioned properly, the text was legible and well-written, and made sure the user input worked.  I also developed and filmed the ending 'win' scene and used blueprints to connect the different mapes together.
   - Game Physics: showcases that I understand how physics works, by the AI moving, doors swinging open, chests opening, player jumping and moving, elevator functioning, etc
   - Complex Logic Problem Solution: showcases that I can QA and debug.  I got rid of all of the bugs that the original game had like the elevator-clipping issue and the non-attacking AI.
