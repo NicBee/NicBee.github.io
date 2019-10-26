@@ -66,7 +66,7 @@ The only real challenge I faced when working on this artifact was deciding what 
 Out of all of the artifacts in my ePortfolio, I feel like this is my best and strongest one and I think it’s because we each brought something unique to the team. I also discovered that I enjoy doing UI work, so I was excited to work on this project every time. It made me realize that I want to work on another team and not be a solo game designer.
 
 This video shows some of the work that I put into this game.  It shows the various audio tracks I used that were triggered in different ways (player's location, being attacked, being hit, chests opening, pickups, etc); it also shows the HUD being updated, the AI health bar and also displays a little bit of interactivity between the game and the user based on the text that appears above the chests:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pG0w9xrToEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Return
 
