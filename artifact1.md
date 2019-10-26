@@ -63,6 +63,8 @@ void ACameraViews::SetPlayerCam()
 
 ![Camera Views](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_5.jpg?raw=true "Camera Views")
 
+Hard Level Walkthrough with different camera angles: <iframe width="560" height="315" src="https://www.youtube.com/embed/LmI8rO5KDVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I chose to add this game to my ePortfolio because I enjoyed working on the C++ code.  It was always a challenge working on this game because the code provided in the class was constantly outdated or incorrect, so I not only had to figure out what was wrong with the code, but I had to implement multiple changes to get everything to work properly.  
 
 I also wanted to add this game to my ePortfolio because I added unique AI.  There's the AI that runs from target point to target point, some that run to randomized target points and some that run in a set pattern.  Then there's the AIs that run on a spline.  I never heard of 'splines' before and I feel quite accomplished for being able to create two different AI that run on two different spline paths.  Here is a quick code snippet of the target point AI:
