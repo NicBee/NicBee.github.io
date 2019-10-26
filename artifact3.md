@@ -26,7 +26,7 @@ Specifically, I added this game to my ePortfolio to show off what I was able to 
 
 As a sometimes dysfunctional team, I had to rely on my skills and eye for design when creating the menus because my team very rarely ever gave me any feedback. Every image in the Main Menu section was created by me, by manipulating the level layout and moving characters to where I needed them. I believe I helped set the tone for the game through the level-manipulated images because I helped the team see the potential in our game whenever they were feeling discouraged.
 
-{% include youtubePlayer.html id=page.youtubeID %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 This quick video shows a piece of my personality that I added to the game: [YouTube](https://youtu.be/VmeeYxbAOy4)
 
