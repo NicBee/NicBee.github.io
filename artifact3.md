@@ -1,3 +1,7 @@
+---
+youtubeId: VmeeYxbAOy4
+---
+
 ## Nicole Beller: GAM-495 Capstone 
 
 ![The Imaginarium](https://github.com/NicBee/NicBee.github.io/blob/master/TheImaginarium_1.jpg?raw=true "The Imaginarium")
@@ -21,6 +25,8 @@ Specifically, I added this game to my ePortfolio to show off what I was able to 
  ![Team (Pizz)A](https://github.com/NicBee/NicBee.github.io/blob/master/TheImaginarium_2.JPG?raw=true "Team (Pizz)A")
 
 As a sometimes dysfunctional team, I had to rely on my skills and eye for design when creating the menus because my team very rarely ever gave me any feedback. Every image in the Main Menu section was created by me, by manipulating the level layout and moving characters to where I needed them. I believe I helped set the tone for the game through the level-manipulated images because I helped the team see the potential in our game whenever they were feeling discouraged.
+
+{% include youtubePlayer.html id=page.youtubeID %}
 
 This quick video shows a piece of my personality that I added to the game: [YouTube](https://youtu.be/VmeeYxbAOy4)
 
