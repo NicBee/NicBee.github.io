@@ -22,7 +22,8 @@ Specifically, I added this game to my ePortfolio to show off what I was able to 
 
 As a sometimes dysfunctional team, I had to rely on my skills and eye for design when creating the menus because my team very rarely ever gave me any feedback. Every image in the Main Menu section was created by me, by manipulating the level layout and moving characters to where I needed them. I believe I helped set the tone for the game through the level-manipulated images because I helped the team see the potential in our game whenever they were feeling discouraged.
 
-This quick video shows a piece of my personality that I added to the game: <iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Direct Link](https://www.youtube.com/embed/VmeeYxbAOy4) 
+This quick video shows a piece of my personality that I added to the game: <iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Direct Link](https://www.youtube.com/embed/VmeeYxbAOy4) 
 
 ### **Skills Learned**
   - Assess the software development life cycle of game projects for determining key factors that influence effectively programmed team developments
@@ -66,6 +67,7 @@ The only real challenge I faced when working on this artifact was deciding what 
 Out of all of the artifacts in my ePortfolio, I feel like this is my best and strongest one and I think it’s because we each brought something unique to the team. I also discovered that I enjoy doing UI work, so I was excited to work on this project every time. It made me realize that I want to work on another team and not be a solo game designer.
 
 This video shows some of the work that I put into this game.  It shows the various audio tracks I used that were triggered in different ways (player's location, being attacked, being hit, chests opening, pickups, etc); it also shows the HUD being updated, the AI health bar and also displays a little bit of interactivity between the game and the user based on the text that appears above the chests:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pG0w9xrToEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Direct Link](https://www.youtube.com/embed/pG0w9xrToEk) 
 
 ### Return
