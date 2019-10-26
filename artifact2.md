@@ -1,5 +1,7 @@
 ## Nicole Beller: GAM-495 Capstone 
 
+![AI](https://github.com/NicBee/NicBee.github.io/blob/master/Paintball_F_.jpg?raw=true "AI")
+
 ### Refined Artifact #2 - *Paintball_Fiasco*
 
 ### **Tools Used**
@@ -178,6 +180,9 @@ Another aspect of this game that makes it appealing and stands out is how colorf
 
 ![Colors](https://github.com/NicBee/NicBee.github.io/blob/master/Paintball_Fiasco_1.jpg?raw=true "Colors")
 
+This video shows the color-changing objects I created, along with how colorful the level is:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Om1xvsgRgDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [Direct Link](https://youtu.be/Om1xvsgRgDM)
+
 ### **Skills Learned**
   - Display 3D objects in game development environments by employing graphics application program interfaces
   - Apply texture and material to meshes adding 2D images to 3D models
@@ -197,6 +202,20 @@ Another aspect of this game that makes it appealing and stands out is how colorf
   
 ### **Reflection**
 
+My original game’s layout was of colorful cubes and triangles and some objects that changed colors when approached. I wanted to expand on this simple idea by adding new areas for players to enjoy.  I realized that having moving targets would make this game more enjoyable, so I decided to add some AI. 
+
+With this artifact, I realized that I should have been paying more attention to the Unreal Marketplace because monthly they will offer free downloads and that’s where I was able to get my cool wild animal AI. 
+
+![AI-Centaur](https://github.com/NicBee/NicBee.github.io/blob/master/Paintball_F_1.jpg?raw=true "AI - Centaur")
+
+Placing the AI in the level wouldn’t be enough. I wanted them to move and run and possibly hide from the players, so I had to learn more about how AI function. I read about behavior trees and target points and for the sake of keeping this game simple, I went with target points. I also found out that for the AI to move, they need to be placed within a NavMeshBoundsVolume. I remembered there being an issue with the NavMesh in my 3rd artifact, so I had to keep in mind the location of my NavMesh, ensuring that my AIs were placed within it and not above or below.
+
+I also learned that level design is a lot more challenging than it looks. To improve this artifact and to make the level appealing, there should be puzzles, jumping areas, high parts of maps and low parts of maps. I tried to make each section of the level stand out through the use of a puzzle, maze, trampoline, jumps, colors, and functioning AI.
+
+
+![Jump Puzzle](https://github.com/NicBee/NicBee.github.io/blob/master/Paintball_F_2.jpg?raw=true "Jump Puzzle")
+
+To help further the refinements of this artifact, I relied on feedback. From my professors and a couple of my friends, they all recommended that I add something that they wouldn’t expect; there’s where the trampoline comes into play. I don’t think paintball arenas have trampolines because then they’d be an easy target but since this is a video game, I thought adding a trampoline would make this paintball game stand out. I added the AI near the trampoline for a little boost of chaos, making the players fear falling into the AI pit.
 
 ### Return
 
