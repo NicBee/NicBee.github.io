@@ -1,14 +1,8 @@
----
-youtubeId: VmeeYxbAOy4
----
-
 ## Nicole Beller: GAM-495 Capstone 
 
 ![The Imaginarium](https://github.com/NicBee/NicBee.github.io/blob/master/TheImaginarium_1.jpg?raw=true "The Imaginarium")
 
 ### Refined Artifact #3 - *The Imaginarium*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Tools Used**
  - SourceTree
@@ -28,9 +22,7 @@ Specifically, I added this game to my ePortfolio to show off what I was able to 
 
 As a sometimes dysfunctional team, I had to rely on my skills and eye for design when creating the menus because my team very rarely ever gave me any feedback. Every image in the Main Menu section was created by me, by manipulating the level layout and moving characters to where I needed them. I believe I helped set the tone for the game through the level-manipulated images because I helped the team see the potential in our game whenever they were feeling discouraged.
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
-This quick video shows a piece of my personality that I added to the game: [YouTube](https://youtu.be/VmeeYxbAOy4)
+This quick video shows a piece of my personality that I added to the game: <iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Skills Learned**
   - Assess the software development life cycle of game projects for determining key factors that influence effectively programmed team developments
@@ -72,6 +64,9 @@ Overall, I think my team did a great job on what they worked on and it was easy 
 The only real challenge I faced when working on this artifact was deciding what I should do to improve it. I remembered there being an issue with the AI and I couldn’t recall what it was until I was doing a playthrough and realized I could just breeze past all of them, which is why I increased their running speed. I also increased the damage output of the ranged AI because they rarely ever hit me, so when they did, I wanted it to make an impact, to add more of a challenge to the game. I also remembered the elevator-clipping issue, but that was an easy fix. Everything else to improve the game was cosmetic.
 
 Out of all of the artifacts in my ePortfolio, I feel like this is my best and strongest one and I think it’s because we each brought something unique to the team. I also discovered that I enjoy doing UI work, so I was excited to work on this project every time. It made me realize that I want to work on another team and not be a solo game designer.
+
+This video shows some of the work that I put into this game.  It shows the various audio tracks I used that were triggered in different ways (player's location, being attacked, being hit, chests opening, pickups, etc); it also shows the HUD being updated, the AI health bar and also displays a little bit of interactivity between the game and the user based on the text that appears above the chests:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Return
 
