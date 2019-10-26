@@ -8,6 +8,8 @@ youtubeId: VmeeYxbAOy4
 
 ### Refined Artifact #3 - *The Imaginarium*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Tools Used**
  - SourceTree
  - Unreal Engine 4.20
@@ -25,8 +27,6 @@ Specifically, I added this game to my ePortfolio to show off what I was able to 
  ![Team (Pizz)A](https://github.com/NicBee/NicBee.github.io/blob/master/TheImaginarium_2.JPG?raw=true "Team (Pizz)A")
 
 As a sometimes dysfunctional team, I had to rely on my skills and eye for design when creating the menus because my team very rarely ever gave me any feedback. Every image in the Main Menu section was created by me, by manipulating the level layout and moving characters to where I needed them. I believe I helped set the tone for the game through the level-manipulated images because I helped the team see the potential in our game whenever they were feeling discouraged.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
