@@ -22,8 +22,8 @@ Specifically, I added this game to my ePortfolio to show off what I was able to 
 
 As a sometimes dysfunctional team, I had to rely on my skills and eye for design when creating the menus because my team very rarely ever gave me any feedback. Every image in the Main Menu section was created by me, by manipulating the level layout and moving characters to where I needed them. I believe I helped set the tone for the game through the level-manipulated images because I helped the team see the potential in our game whenever they were feeling discouraged.
 
-This quick video shows a piece of my personality that I added to the game: <iframe width="560" height="315" src="https://www.youtube.com/embed/VmeeYxbAOy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Direct Link](https://www.youtube.com/embed/VmeeYxbAOy4) 
+This quick video shows a piece of my personality that I added to the game: 
+[YouTube Clip](https://www.youtube.com/embed/VmeeYxbAOy4) 
 
 ### **Skills Learned**
   - Assess the software development life cycle of game projects for determining key factors that influence effectively programmed team developments
