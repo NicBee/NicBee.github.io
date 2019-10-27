@@ -63,7 +63,7 @@ void ACameraViews::SetPlayerCam()
 
 ![Camera Views](https://github.com/NicBee/NicBee.github.io/blob/master/TheRace_5.jpg?raw=true "Camera Views")
 
-Hard Level Walkthrough with different camera angles: [Direct Link](https://www.youtube.com/embed/LmI8rO5KDVA) 
+Hard Level Walkthrough with different camera angles: [YouTube Clip](https://www.youtube.com/embed/LmI8rO5KDVA) 
 
 I chose to add this game to my ePortfolio because I enjoyed working on the C++ code.  It was always a challenge working on this game because the code provided in the class was constantly outdated or incorrect, so I not only had to figure out what was wrong with the code, but I had to implement multiple changes to get everything to work properly.  
 
